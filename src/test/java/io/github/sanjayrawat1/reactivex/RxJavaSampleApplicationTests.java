@@ -1,13 +1,13 @@
 package io.github.sanjayrawat1.reactivex;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RxjavaSampleApplicationTests {
+public class RxJavaSampleApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
